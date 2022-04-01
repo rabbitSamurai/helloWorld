@@ -1,5 +1,7 @@
 # helloWorld
-My first program *_* ---in python
+My first program 8D ---in python
+
+--------------------------------------
 
 print("Metric to USA feet converter")
 
