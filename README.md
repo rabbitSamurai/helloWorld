@@ -1,4 +1,4 @@
-# helloWorld
+# Metric to USA feet converter
 My first program 8D ---in python
 
 --------------------------------------
